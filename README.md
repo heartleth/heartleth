@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**heartleth/heartleth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning
+기말 공부해야지
+- 👯 I’m looking to collaborate on
+c++ tui library
+- 🤔 I’m looking for help with
+시험공부
+- 💬 Ask me about
+everything
+- 📫 How to reach me:
+82+ 010-75**-2***
+- 😄 Pronouns:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact:
